@@ -1,0 +1,19 @@
+name: Question
+description: Ask a question about the OrbitFlare Infra Accelerator Program
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Describe your question clearly.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Any additional context that helps us understand your question (e.g., your project type, stage, specific concern about the program).
+    validations:
+      required: false
