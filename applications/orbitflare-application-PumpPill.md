@@ -41,7 +41,7 @@ Our system currently detects new token launches via Helius webhooks. With OrbitF
 
 | Name | Role | GitHub | LinkedIn | Relevant Experience |
 |---|---|---|---|---|
-| Kyle Brown | Founder / Full-stack | @kbrown84 | - | Solana trading infrastructure, data pipelines, real-time systems |
+| Kyle (JackedBasedMgr) | Founder / Nerd | @JackedBasedMgr | - | Solana trading infrastructure, data pipelines, real-time systems |
 
 ### Team Location(s)
 
